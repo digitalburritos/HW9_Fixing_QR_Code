@@ -1,3 +1,5 @@
-QR CODE:
+QR Code
+![QR Code](image.png)
 
-![alt text](image.png)
+Docker Image
+![Docker Image](image-1.png)
