@@ -1,2 +1,3 @@
-QR CODE
+QR CODE:
+
 ![alt text](image.png)
